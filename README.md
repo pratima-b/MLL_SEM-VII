@@ -1,3 +1,3 @@
 # MLL_SEM-VII
 
-Machine Learning Lab
+09_Pratima_Bombe_Machine_Learning_Lab
